@@ -1,0 +1,32 @@
+H1{
+    color: blue;
+    text-align: center;
+}
+#WORD{
+    color: black;
+}
+
+#container {
+    font-family: cursive;
+    width: 70%;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: blue;
+    margin:10% auto;
+    text-align: center;
+}
+#letters a {
+    color: green;
+    background-color: darkgray;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+    width: 65%;
+}
+#letters a:hover{
+    color:red;
+}
+#letters a .d{
+    color:yellow;
+    text-decoration: underline;
+}
